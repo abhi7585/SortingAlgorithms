@@ -1,0 +1,11 @@
+# cache
+.vscode
+
+# requirement files
+Pipfile
+pipfile.lock
+
+# Distribution / packaging files
+dist/
+build/
+*.egg-info/
