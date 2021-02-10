@@ -80,3 +80,5 @@ The parameters which user can use while calling the functions are:
 © 2021 Abhishek Tripathi
 
 This repository is licensed under the MIT license. See LICENSE for details.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
